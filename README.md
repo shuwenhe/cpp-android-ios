@@ -21,7 +21,7 @@ C/C++是相对底层的语言，相比OC、Swift、Kotlin、Java等都要难，�
 
 ### 项目设计
 
-设计思想参考了 Flutter Plugin 和 [protobuf](https://github.com/protocolbuffers/protobuf)  的工程结构，基于CMake 和 CocoaPods 实现，为大家提供一种多平台协同开发的思路，本篇文章不会把全部的代码贴出来，只会列出设计思想和关键的代码，详细代码请查看 [源码](https://github.com/taoweiji/cpp-android-ios-example)。
+设计思想参考了 Flutter Plugin 和 [protobuf](https://github.com/protocolbuffers/protobuf)  的工程结构，基于CMake 和 CocoaPods 实现，为大家提供一种多平台协同开发的思路，本篇文章不会把全部的代码贴出来，只会列出设计思想和关键的代码，详细代码请查看 [源码](https://github.com/shuwenhe/cpp-android-ios)。
 
 #### 目录结构
 
